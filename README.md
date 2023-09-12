@@ -2,9 +2,7 @@
 
 Wanna buy fake stocks? I know a guy!
 
-This is a "RobinHood" clone to use the term loosely,
-the purpose of which is to satisfy the requirements
-given [here](https://gatsbylabs.notion.site/Simple-Robinhood-44b9db6c84ec4ecdb6cb8785b843ee92).
+This is a "RobinHood" clone to use the term loosely.
 
 This repository is a Lerna / NX monorepo, containing
 in the services folder a simulated NASDAQ backend that generates
