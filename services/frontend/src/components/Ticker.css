@@ -1,0 +1,7 @@
+.Tickers-container {
+  --scale-set: 0.75;
+  -webkit-transform: scale(var(--scale-set));
+  -moz-transform: scale(var(--scale-set));
+  -ms-transform: scale(var(--scale-set));
+  transform: scale(var(--scale-set));
+}

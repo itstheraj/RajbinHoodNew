@@ -1,0 +1,14 @@
+{
+  "en": {
+    "translation": {
+      "app-disclaimer": "These are not real assets. The prices are fake. I am not a certified financial professional. But if you want to buy some fake stocks, I know a guy! (It's me, I'll accept your money.)",
+      "portfolio-link-text": "For more fun - enter the RajVerse."
+    }
+  },
+  "es": {
+    "translation": {
+      "app-disclaimer": "Esos no son acciones reales, son falsos! No soy un profesional financiero certificado. Pero, si quieres comprar algunos acciones falsos, quizas conozco a un hombre! (Soy yo, dame tu dinero.)",
+      "portfolio-link-text": "Quiere divirterse? Para mas, por favor haz click al RajVerse!"
+    }
+  }
+}
